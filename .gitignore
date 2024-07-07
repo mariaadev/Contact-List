@@ -1,0 +1,149 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# Angular specific directories
+.angular
+/dist
+/tmp
+/out-tsc
+/nativescript
+/platforms
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Compiled output
+/dist/
+/tmp/
+/out-tsc/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.history
+*.swp
+*.swo
+*.code-workspace
+
+# .NET specific
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+*.pidb
+*.svd
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Rr]elease*/
+
+# NUNIT
+*.VisualState.xml
+*.nunit3.bin
+
+# Build Results of an Atlassian Bamboo CI server
+atlassian-bamboo.xml
+
+# Chutzpah Test results
+_Chutzpah*
+
+# Microsoft Azure Web App publish settings. Contains sensitive information.
+# Comment if you're using # "Azure Web Projects" from the "Azure SDK" extension for Visual Studio.
+# Note: Comment this line if you're using the `azure-web-publish` project template in Visual Studio.
+PublishProfiles/
+
+# Node.js dependencies
+node_modules/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+*.vspx
+
+# .NET environment-specific files
+*.env
+*.env.*.local
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio
+.vscode/
+.vscode-test/
+.vs/
+_resharper*
+.ReSharper*/
+.idea/
+.idea_modules/
+*.sln*
+*.csproj.user
+*.csproj.DotSettings
+.DS_Store
+
+# Rider
+.idea/
+*.sln.iml
